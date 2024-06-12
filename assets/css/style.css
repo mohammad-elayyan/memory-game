@@ -25,6 +25,10 @@ body {
     cursor: pointer;
 }
 
+.card img {
+    width: 85%;
+}
+
 .card.flipped {
     transform: rotateY(180deg);
 }
